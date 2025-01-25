@@ -1,6 +1,6 @@
-# todo
+# Todo App
 
-A new Flutter project.
+A todo application open source.
 
 ## Getting Started
 
