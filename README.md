@@ -1,4 +1,4 @@
-# Todo App
+# Todolist App
 
 An open-source Flutter application for managing your daily tasks efficiently. This Todo App allows users to create, edit, and delete tasks to stay organized and productive.
 
@@ -29,13 +29,13 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/smartkaryatech/Todo-App.git
+   git clone https://github.com/smartkaryatech/todolist-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Todo-App
+   cd todolist-app
    ```
 
 3. Install dependencies:
